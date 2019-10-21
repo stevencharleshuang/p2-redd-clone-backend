@@ -28,6 +28,7 @@ Descriptions of any unsolved problems you had to overcome.
 
 ## ERD
 
+<img src="./Project 2 ERD.png" alt="erd" />
 
 
 ## Deliverables and Timeline
